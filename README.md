@@ -155,7 +155,7 @@ Every project teaches me something new, and that's one of my favourite things ab
 
 **Thanks for stopping by, little star.** ♡
 
-<sub>Made with curiosity, caffeine (and a lot of it) , and a little bit of magic.\</sub>
+<sub>Made with curiosity, caffeine (and a lot of it) , and a little bit of magic.</sub>
 
 <img
   src="https://capsule-render.vercel.app/api?type=waving&amp;color=0%3AB99BFF%2C50%3A5B438B%2C100%3A171329&amp;height=100&amp;section=footer"
