@@ -1,120 +1,158 @@
-👋 Hi, I'm Larissa Heyns
+\<!--
+&#x20;   ✦ LARISSA HEYNS · PROFILE README ✦
+&#x20;   Theme: Dreamy purple / celestial / creative developer
+\-->
 
-<p align="center">
-  <img src="assets/banner.png" alt="Larissa Heyns — Creative Developer" width="100%" />
-</p>
+\<div align="center">
 
-<p align="center">
-  <strong>Developer | Web Development | Creative Problem-Solving</strong>
-  <br />
-  Building thoughtful digital experiences through code and design.
-</p>
+\<img src="[https://capsule-render.vercel.app/api?type=waving&color=0:171329,45:5B438B,100\:B99BFF&height=190&section=header&text=Larissa%20Heyns&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=%E2%9C%A7%20developer%20in%20progress%20%E2%9C%A7&descAlignY=60&descSize=16](https://capsule-render.vercel.app/api?type=waving\&color=0:171329,45:5B438B,100\:B99BFF\&height=190\&section=header\&text=Larissa%20Heyns\&fontSize=48\&fontColor=FFFFFF\&fontAlignY=38\&desc=%E2%9C%A7%20developer%20in%20progress%20%E2%9C%A7\&descAlignY=60\&descSize=16)" width="100%" alt="Larissa Heyns — dreamy purple developer banner" />
 
-<p align="center">
-  <a href="https://github.com/larissaheyns">GitHub</a> ·
-  <a href="https://github.com/larissaheyns?tab=repositories">Projects</a>
-</p>
+\<br/>
 
-I'm a developer who enjoys building interactive web applications and exploring how thoughtful visual design can improve digital experiences.
+### ☾ 𓂃 ࣪˖ ✦ 𝒽𝒾, 𝒾'𝓂 𝐿𝒶𝓇𝒾𝓈𝓈𝒶 ✦ ˖ ࣪𓂃 ☽
 
-Through my development projects, I've gained practical experience designing websites, working with layouts and visual consistency, and considering how users interact with digital interfaces. I'm interested in combining these design insights with my technical skills to build functional, engaging applications.
+**Web Development · Creative Coding · Building Things**
 
-## ✦ About Me
+*Turning ideas into something real, one line of code at a time.* ♡
 
-- 💻 Interested in web development and full-stack applications.
-- 🎨 Enjoy creating visually engaging websites and interfaces.
-- 🛠️ Building practical applications through hands-on development projects.
-- 🌱 Continuously learning new technologies and improving my code.
-- 📍 Based in South Africa.
+\
 
-## 🎯 My Approach
 
-I believe a good application should work well and feel intuitive to use. My projects give me opportunities to strengthen my programming skills while applying what I've learned about website design, visual hierarchy, and user interaction.
-
-I'm focused on becoming a stronger developer, building meaningful projects, and creating digital experiences that combine functionality with thoughtful design.
-
-## 🧰 Technologies & Tools
-
-**Languages and Web Technologies**
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-
-**Frameworks and Backend**
-
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=flat-square&logo=express&logoColor=white)
-
-**Database and Development Tools**
-
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+\</div>
 
 ---
 
-## 🚀 Featured Projects
+\<div align="center">
 
-### 🎵 Music Application — API Integration
+`୨୧`　☾　✧　⋆｡°✩　☽　`୨୧`
 
-An API-driven music application exploring music data and interactive frontend experiences. This project is also an opportunity to revisit an earlier implementation, restore its API integration, and improve the user interface.
+\</div>
 
-**Focus:** React, API integration, frontend development.
+## ୨୧・a little about me
 
-[View Repository →](https://github.com/larissaheyns/DV200_Larissa_Heyns)
+Hiii! I'm Larissa, a development student from South Africa who loves bringing ideas to life through code. ♡
 
-### 🎓 Student Slide — Student Marketplace
+I'm interested in building interactive web applications, experimenting with creative concepts, and making digital experiences that are both functional and visually engaging.
 
-A student marketplace designed to let students buy, sell, and trade unwanted items. The application explores authentication, role-based access, listing management, and communication between users.
+I'm still learning, still experimenting, and occasionally wondering why something worked five minutes ago but doesn't work anymore. That's part of the process, right? ⋆｡°✩
 
-**Key features**
-- Student and administrator roles.
-- Listing creation and approval workflows.
-- Marketplace browsing and item management.
-- Buying, trading, and seller communication.
+- ☾ Studying Interactive Development at The Open Window.
+- ✧ Exploring frontend and full-stack web development.
+- 🎨 Enjoy designing websites and experimenting with layouts, colours, and visual details.
+- 🌌 Building creative projects inspired by imagination and storytelling.
+- ♡ Always learning something new and finding ways to improve.
+
+\<div align="center">
+
+*“Somewhere between an idea and a finished project, the magic happens.”*
+
+✦ ─────────────── ☾ ─────────────── ✦
+
+\</div>
+
+## ☾・my current spellbook (tech stack)
+
+**Languages & web**
+
+
+\
+
+
+**Frameworks & backend**
+
+
+\
+
+
+**Database & tools**
+
+
+
+\
+
+
+\<sub>✦ Technologies I've been working with — always room to learn more.\</sub>
+
+---
+
+## ✧・little worlds I've been building
+
+### 🌙 The Canopy
+
+<p align="center">
+  <img
+    src="canopy-preview.png"
+    alt="Preview of The Canopy web application"
+    width="85%"
+  />
+</p>
+
+*Dreams · Consciousness · Connection*
+
+An imaginative web application concept inspired by dreams and the collective subconscious. The Canopy explores a more immersive way to record and connect dream entries, with a distinctive cosmic visual identity.
+
+**Exploring:** React · CRUD functionality · Interface design · Database integration
+
+[↗ View the repository](https://github.com/larissaheyns/The-Canopy)
+
+### 🎧 Music Application
+
+*Music data · API integration · Frontend development*
+
+One of my earlier development projects, built around retrieving music data and presenting it through an interactive interface. I'm interested in revisiting the project to restore its API integration and give the frontend a fresh new look.
+
+**Focus:** React · JavaScript · API integration
+
+[↗ View the repository](https://github.com/larissaheyns/DV200_Larissa_Heyns)
+
+### 🎓 Student Slide
+
+*Buy · Sell · Trade*
+
+A student marketplace concept that allows students to buy, sell, and trade unwanted items. The project explores user authentication, role-based access, listing management, and communication between users.
 
 **Tech stack:** MongoDB · Express.js · React · Node.js
 
-[View Repository →](https://github.com/gabri3llp/dv200_keyboardlickers_studentslide)
+[↗ View the repository](https://github.com/gabri3llp/dv200_keyboardlickers_studentslide)
 
-### 🌌 The Canopy — Dreams & Consciousness
+### 💜 Sunfield Fortuna
 
-An interactive application concept inspired by dreams and the collective subconscious. The project combines a distinctive visual identity with a connected experience built around user-created dream entries.
+*Website redesign · Visual consistency · Accessibility considerations*
 
-**Focus:** React, CRUD functionality, interface design, and database-driven application development.
+A website redesign project for a charity supporting people with disabilities. The work explores how a more welcoming visual identity, thoughtful layouts, and consistent design can make a website feel less clinical and more approachable.
 
-[View Repository →](https://github.com/larissaheyns/The-Canopy)
+**Focus:** Website design · Figma · Visual hierarchy · User experience considerations
 
-### 💛 Sunfield Fortuna — Charity Website UX/UI
-
-A website redesign project for a charity supporting people with disabilities. The design work focuses on creating a more welcoming, accessible, and visually engaging experience while maintaining the site's existing structure and improving its visual consistency.
-
-**Focus:** UI/UX design, Figma, visual hierarchy, accessibility considerations, and responsive design planning.
-
-[View Repository →](https://github.com/larissaheyns/Sunfield-Fortuna-Larissa-Heyns-251048)
+[↗ View the repository](https://github.com/larissaheyns/Sunfield-Fortuna-Larissa-Heyns-251048)
 
 ---
 
-## 🎯 My Development Philosophy
+## ⋆｡°✩ what I'm working towards
 
-I believe great digital experiences come from combining thoughtful design with functional, maintainable code.
+I'm focused on becoming a stronger developer by building practical projects, improving my code, and learning how to turn more ambitious ideas into working applications.
 
-Every project is an opportunity to learn something new, approach problems differently, and turn an idea into something tangible. I'm focused on developing my technical skills while building projects that demonstrate creativity, problem-solving, and attention to detail.
+I also enjoy the creative side of development — figuring out how a website should look, how its pieces fit together, and how to make the final experience feel cohesive.
 
----
-
-## 🤝 Let's Connect
-
-I'm always interested in learning from other developers, exploring new technologies, and collaborating on creative projects.
-
-- **GitHub:** [@larissaheyns](https://github.com/larissaheyns)
-- **Location:** South Africa
+Every project teaches me something new, and that's one of my favourite things about this journey. ☾
 
 ---
 
-<p align="center">
-  <i>Building, learning, and creating — one project at a time.</i>
-</p>
+\<div align="center">
+
+## ☾ let's connect ✧
+
+*Always happy to learn, create, and exchange ideas with fellow developers.*
+
+
+
+\<br/>
+
+☾　✧　⋆｡°✩　♡　✩°｡⋆　✧　☽
+
+**Thanks for stopping by, little star.** ♡
+
+\<sub>Made with curiosity, caffeine (and a lot of it) , and a little bit of magic.\</sub>
+
+\<img src="[https://capsule-render.vercel.app/api?type=waving&color=0\:B99BFF,50:5B438B,100:171329&height=100&section=footer](https://capsule-render.vercel.app/api?type=waving\&color=0\:B99BFF,50:5B438B,100:171329\&height=100\&section=footer)" width="100%" alt="Purple wave footer" />
+
+\</div>
