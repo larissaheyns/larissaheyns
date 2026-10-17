@@ -1,13 +1,15 @@
-\<!--
+<!--
 &#x20;   ✦ LARISSA HEYNS · PROFILE README ✦
 &#x20;   Theme: Dreamy purple / celestial / creative developer
-\-->
+-->
 
-\<div align="center">
+<div align="center">
 
-\<img src="[https://capsule-render.vercel.app/api?type=waving&color=0:171329,45:5B438B,100\:B99BFF&height=190&section=header&text=Larissa%20Heyns&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=%E2%9C%A7%20developer%20in%20progress%20%E2%9C%A7&descAlignY=60&descSize=16](https://capsule-render.vercel.app/api?type=waving\&color=0:171329,45:5B438B,100\:B99BFF\&height=190\&section=header\&text=Larissa%20Heyns\&fontSize=48\&fontColor=FFFFFF\&fontAlignY=38\&desc=%E2%9C%A7%20developer%20in%20progress%20%E2%9C%A7\&descAlignY=60\&descSize=16)" width="100%" alt="Larissa Heyns — dreamy purple developer banner" />
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0%3A171329%2C45%3A5B438B%2C100%3AB99BFF&amp;height=190&amp;section=header&amp;text=Larissa%20Heyns&amp;fontSize=48&amp;fontColor=FFFFFF&amp;fontAlignY=38&amp;desc=%E2%9C%A7%20developer%20in%20progress%20%E2%9C%A7&amp;descAlignY=60&amp;descSize=16" width="100%" alt="Larissa Heyns — dreamy purple developer banner" />
+</div>
 
-\<br/>
+<br/>
 
 ### ☾ 𓂃 ࣪˖ ✦ 𝒽𝒾, 𝒾'𝓂 𝐿𝒶𝓇𝒾𝓈𝓈𝒶 ✦ ˖ ࣪𓂃 ☽
 
@@ -15,18 +17,18 @@
 
 *Turning ideas into something real, one line of code at a time.* ♡
 
-\
 
 
-\</div>
+
+</div>
 
 ---
 
-\<div align="center">
+<div align="center">
 
 `୨୧`　☾　✧　⋆｡°✩　☽　`୨୧`
 
-\</div>
+</div>
 
 ## ୨୧・a little about me
 
@@ -42,36 +44,36 @@ I'm still learning, still experimenting, and occasionally wondering why somethin
 - 🌌 Building creative projects inspired by imagination and storytelling.
 - ♡ Always learning something new and finding ways to improve.
 
-\<div align="center">
+<div align="center">
 
 *“Somewhere between an idea and a finished project, the magic happens.”*
 
 ✦ ─────────────── ☾ ─────────────── ✦
 
-\</div>
+</div>
 
 ## ☾・my current spellbook (tech stack)
 
 **Languages & web**
 
 
-\
+
 
 
 **Frameworks & backend**
 
 
-\
+
 
 
 **Database & tools**
 
 
 
-\
 
 
-\<sub>✦ Technologies I've been working with — always room to learn more.\</sub>
+
+<sub>✦ Technologies I've been working with — always room to learn more.</sub>
 
 ---
 
@@ -81,7 +83,7 @@ I'm still learning, still experimenting, and occasionally wondering why somethin
 
 <p align="center">
   <img
-    src="canopy-preview.png"
+    src="https://raw.githubusercontent.com/larissaheyns/The-Canopy/main/canopy-preview.png"
     alt="Preview of The Canopy web application"
     width="85%"
   />
@@ -127,6 +129,8 @@ A website redesign project for a charity supporting people with disabilities. Th
 
 ---
 
+---
+
 ## ⋆｡°✩ what I'm working towards
 
 I'm focused on becoming a stronger developer by building practical projects, improving my code, and learning how to turn more ambitious ideas into working applications.
@@ -137,7 +141,7 @@ Every project teaches me something new, and that's one of my favourite things ab
 
 ---
 
-\<div align="center">
+<div align="center">
 
 ## ☾ let's connect ✧
 
@@ -145,14 +149,18 @@ Every project teaches me something new, and that's one of my favourite things ab
 
 
 
-\<br/>
+<br/>
 
 ☾　✧　⋆｡°✩　♡　✩°｡⋆　✧　☽
 
 **Thanks for stopping by, little star.** ♡
 
-\<sub>Made with curiosity, caffeine (and a lot of it) , and a little bit of magic.\</sub>
+<sub>Made with curiosity, caffeine (and a lot of it) , and a little bit of magic.\</sub>
 
-\<img src="[https://capsule-render.vercel.app/api?type=waving&color=0\:B99BFF,50:5B438B,100:171329&height=100&section=footer](https://capsule-render.vercel.app/api?type=waving\&color=0\:B99BFF,50:5B438B,100:171329\&height=100\&section=footer)" width="100%" alt="Purple wave footer" />
+<img
+  src="https://capsule-render.vercel.app/api?type=waving&amp;color=0%3AB99BFF%2C50%3A5B438B%2C100%3A171329&amp;height=100&amp;section=footer"
+  width="100%"
+  alt="Purple wave footer"
+/>
 
-\</div>
+</div>
